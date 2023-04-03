@@ -1,0 +1,14 @@
+# General application docs 
+*.docx
+*.pptx
+*.tmp
+
+# Python specific files to ignore 
+*.ipynb_checkpoints
+__pycache__
+
+# Ignore old folders
+old
+
+
+
